@@ -1,5 +1,5 @@
 # 3D-Tic-Tac-Toe-4lines
-「立体四目並べ」をPython上で行うためのPythonのソースコード```main.py```です。  
+「立体四目並べ」をPython上で行うためのJupyter Notebookのソースコード```main.ipynb```です。  
 この作品はCC BY-NC-ND 4.0に基づいてライセンスされています。  
 （表示 - 非営利 - 改変禁止 4.0 国際）  
 https://creativecommons.org/licenses/by-nc-nd/4.0/    
